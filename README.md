@@ -35,7 +35,7 @@ This repository contains the implementation of the **Machine Learning** course p
 
 ### Download Links:
 - **[mon_standard.pkl](https://drive.google.com/drive/folders/13sDplxKUNmntbYr6WhpqQARiBvH41Oum)**
-- **[unmon_standard10.pkl](https://drive.google.com/drive/folders/13sDplxKUNmntbYr6WhpqQARiBvH41Oum)**
+- **[unmon_standard10_3000.pkl](https://drive.google.com/drive/folders/13sDplxKUNmntbYr6WhpqQARiBvH41Oum)**
 
 ### Dataset Details:
 
@@ -73,30 +73,30 @@ To run the code, the following Python libraries need to be installed:
    ```
 
 2. Install the required libraries listed above.
-```bash
-pip install pandas numpy matplotlib scikit-learn xgboost imbalanced-learn
-```
+    ```bash
+    pip install pandas numpy matplotlib scikit-learn xgboost imbalanced-learn
+    ```
 3. Run the desired classification tasks:
    -Navigate to the 'Optimized Models/' folder.
 1. **Closed-World Classification**:
    - Run the script: 
-   ```bash
-   Closed_Multi_Random Forest
-   ```
+     ```bash
+     Closed_Multi_Random Forest
+     ```
    - This script builds a model to classify the 95 monitored websites into unique classes.
 
 2. **Open-World Binary Classification**:.
    - Run the script: 
-   ```bash
-   Open_Binary_XGBoost
-   ```
+     ```bash
+     Open_Binary_XGBoost
+     ```
    - This script builds a binary classification model to distinguish monitored (`1`) from unmonitored (`-1`) website traffic.
 
 3. **Open-World Multi-Class Classification**:
    - Run the script: 
-   ```bash
-   Open_Multi_Random Forest.ipynb
-   ```
+     ```bash
+     Open_Multi_Random Forest.ipynb
+     ```
    - This script builds a multi-class classification model to classify 95 monitored websites (`0-94`) and unmonitored websites (`-1`) into 96 total classes.
 
 ---
