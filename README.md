@@ -65,6 +65,7 @@ To run the code, the following Python libraries need to be installed:
   
 ```bash
 pip install pandas numpy matplotlib scikit-learn xgboost imbalanced-learn
+```
 
 ### 3️⃣ Steps to Run
 
