@@ -117,6 +117,6 @@ To run the code, the following Python libraries need to be installed:
   - Yoonjae Oh
   - Sunghyun Shin
   - Eunwoo Choi
-  - Member 5
+  - Yusun Choi
 
 For any questions or clarifications, please contact us via email
