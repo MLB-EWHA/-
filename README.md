@@ -115,7 +115,7 @@ To run the code, the following Python libraries need to be installed:
 - Team Members:
   - Yoon juyoung
   - Yoonjae Oh
-  - Member 3
+  - Sunghyun Shin
   - Member 4
   - Member 5
 
