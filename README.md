@@ -113,7 +113,7 @@ To run the code, the following Python libraries need to be installed:
 **Team Name**: MLB_EWHA
 
 - Team Members:
-  - Yoon juyoung
+  - Juyoung Yoon
   - Yoonjae Oh
   - Sunghyun Shin
   - Eunwoo Choi
