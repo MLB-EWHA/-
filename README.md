@@ -40,7 +40,7 @@ This repository contains the implementation of the **Machine Learning** course p
 | Dataset               | Instances | Classes               | Description                                                                                      |
 |-----------------------|-----------|-----------------------|--------------------------------------------------------------------------------------------------|
 | `mon_standard.pkl`    | 19,000    | 95                    | Monitored website traces. Each website has 10 subpages, observed 20 times each.                 |
-| `unmon_standard10.pkl`| 3,000     | - (unmonitored only)  | Unmonitored website traces.                                                                     |
+| `unmon_standard10_3000.pkl`| 3,000     | - (unmonitored only)  | Unmonitored website traces.                                                                     |
 
 ---
 
