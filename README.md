@@ -6,9 +6,9 @@ This repository contains the implementation of the **Machine Learning** course p
 
 ## 📂 Repository Structure
 
-- **`Datasets/`**: Contains the processed datasets:
-  - `mon.csv`: Features extracted from the `mon_standard.pkl` file.
-  - `unmonmon.csv`: Features extracted from the `unmon_standard10_3000.pkl & mon_standard.pkl` file.
+- **`mon.csv`**: Features extracted from the `mon_standard.pkl` file.
+- **`unmonmon.csv`**: Features extracted from the `unmon_standard10_3000.pkl & mon_standard.pkl` file.
+
 
 - **`Task Process/`**: Includes all the code used during project development.
 
