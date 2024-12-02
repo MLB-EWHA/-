@@ -14,8 +14,6 @@ This repository contains the implementation of the **Machine Learning** course p
 
 - **`Optimized Models/`**: Contains optimized code for evaluation purposes.
 
-- **`load_pickle_code.ipynb`**: Sample code for feature extraction and conversion of `.pkl` files to arrays.
-
 ---
 
 ## 📊 Project Overview
